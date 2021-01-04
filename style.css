@@ -1,0 +1,40 @@
+h1{
+    color: salmon;
+    background-color: slategray;
+    height: 100px;
+    width: 75%;
+}
+p{
+    font-size: 25px;
+    background-color: skyblue;
+    font-weight: 200;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+img{
+    width: 25%;
+}
+#nothing{
+    background-color: sandybrown;
+    width: 50%;
+}
+.me{
+    color: rebeccapurple;
+}
+h1.me{
+    font-weight: 100;
+}
+.love{
+    color: red;
+}
+.tour{
+    color: royalblue;
+    border: 10px solid greenyellow;
+    border-radius: 30px;
+    margin: 2px;
+    padding: 20px 80px 20px 80px;
+    width: 30%;
+    display: inline-block;
+}
+h2{
+    text-align: center;
+}
